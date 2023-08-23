@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/will-fitness-tracker/static/css/main.962eda53.css",
+    "main.js": "/will-fitness-tracker/static/js/main.4fa093f8.js",
+    "static/media/loader.gif": "/will-fitness-tracker/static/media/loader.52c580793018577414c2.gif",
+    "index.html": "/will-fitness-tracker/index.html",
+    "main.962eda53.css.map": "/will-fitness-tracker/static/css/main.962eda53.css.map",
+    "main.4fa093f8.js.map": "/will-fitness-tracker/static/js/main.4fa093f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.962eda53.css",
+    "static/js/main.4fa093f8.js"
+  ]
+}
